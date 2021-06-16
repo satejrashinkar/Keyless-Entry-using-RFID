@@ -3,7 +3,7 @@
 The project utilises RFID based technology to provide contactless operation in case of actuating mechanism for door. 
 It can be implemented in real-time in Schools, Offices,etc. for attendance monitoring purposes.
 
-## Password is : 12345
+## Password for keypad based entry is : 12345
 
 &ensp; Hardware:</br>
 &ensp; &ensp;    1. PIC18F4550 (Controller) <br/>
